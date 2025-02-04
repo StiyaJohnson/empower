@@ -128,7 +128,7 @@ export default function TeamPage() {
           <p className="text-gray-500 mt-2">No limits, No boundaries</p>
           <div className="mt-4">
             <img
-              src="https://images.unsplash.com/photo-1444930694458-01babf71870c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fGZsb3dlcnN8ZW58MHx8MHx8fDA%3D" // Replace with your group photo URL
+              src="https://media.licdn.com/dms/image/v2/D4D2DAQEVgDmEp8hicA/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1738688807344?e=1739304000&v=beta&t=ClGkFZmeWRrtsYadwOSWivS9-yK54K3AdcxOT0NT150" // Replace with your group photo URL
               alt="Team Group Photo"
               className="mx-auto rounded-lg shadow-lg"
             />
